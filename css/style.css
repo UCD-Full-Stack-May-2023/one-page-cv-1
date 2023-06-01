@@ -18,7 +18,7 @@ h2 {
 }
 
 .button {
-  margin: 1rem;
+  margin: 2rem;
   font-size: 1rem;
   background-color: #000000;
   text-transform: uppercase;
@@ -28,5 +28,5 @@ h2 {
   /* TRBL */
   padding: .8em 2.2em;
   border-radius: .8em;
-  box-shadow:8px 8px 32px #00000044;
+  box-shadow: 8px 8px 32px #00000044;
 }
